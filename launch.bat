@@ -1,0 +1,1 @@
+cmd /k ".\test_gcd.py"

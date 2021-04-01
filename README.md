@@ -1,0 +1,1 @@
+Execute launch.bat to run unit test. 
